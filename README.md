@@ -1,12 +1,13 @@
 # fieldnote
 
-small note repo.
+markdown notes and checklists for reading projects without losing brain cells.
 
 ## purpose
 
 - short notes
 - tiny logs
 - snippets worth keeping
+- quick public reads of project pages
 
 ## tone
 
