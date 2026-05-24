@@ -1,19 +1,15 @@
 # fieldnote
 
-markdown notes and checklists for reading projects without losing brain cells.
+small markdown kit for quick notes.
 
-## purpose
+useful for:
+- project notes
+- task checks
+- suspicious link first-look
+- public-safe reports
 
-- short notes
-- tiny logs
-- snippets worth keeping
-- quick public reads of project pages
-
-## tone
-
-- low noise
-- human-ish
-- no overbuild
+templates are plain markdown.
+scripts are optional.
 
 ## templates
 
@@ -24,3 +20,15 @@ markdown notes and checklists for reading projects without losing brain cells.
 ## examples
 
 - `examples/example-note.md` — fake example, safe to copy
+- `notes/2026-05-22-why-links-lie.md` — short public note
+
+## scripts
+
+- `scripts/link-title-check.py` — fetch final URL + page title for a quick first-look note
+
+## rules
+
+- no secrets
+- no wallet details
+- no private session data
+- mark unchecked facts as unchecked
